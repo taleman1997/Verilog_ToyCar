@@ -5,4 +5,5 @@ This project aims to build a microprocessor-based system on FPGA with a demo app
 ## Structure of the project
 ![img](https://github.com/taleman1997/Verilog_ToyCar/blob/main/structure.png)
 ## Demo
+![](https://github.com/taleman1997/Verilog_ToyCar/blob/main/demo.gif)
 
